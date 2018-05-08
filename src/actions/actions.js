@@ -1,11 +1,12 @@
 var id =  "5A6B00874B";
-export const select = (user) => {
+export const edit = (user) => {
     //alert(user.name);
     return {
-        type: "SELECT",
+        type: "EDIT",
         payload: user
     }
 };
+
 export const del = (user) => {
     //alert("DELETE " + user.name);
     return {
@@ -21,13 +22,21 @@ export const add = () => {
         type: "ADD",
         payload: {
             id: id,
-            age: "14",
-            name: "Kirill Kiselevich",
-            gender: "male",
+            age: "",
+            name: "",
+            gender: "",
             // company: "1488 studios",
-            // email: "Qurubo@gmail.com",
+            email: "",
+            editable: true
             // phone: "+375259835900",
             // address: "dfgjkljsdfgkl;j;"
         }
+    }
+};
+export const find = (value) => {
+    //alert("DELETE " + user.name);
+    return {
+        type: "FIND",
+        payload: value
     }
 };
