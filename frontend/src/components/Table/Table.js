@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 import UserList from "../UserList/UserList";
-import users from "../../users"
+import users from "../../users.json"
 import {bindActionCreators} from 'redux';
 import {connect} from 'react-redux';
 import {sort} from "../../actions/actions";
