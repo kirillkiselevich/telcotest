@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="baf3223e-6a20-433a-93cb-8a7418b244f4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../backend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend/src/main/java/controler/MainServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend/src/main/java/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend/src/main/java/utils/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backend/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ButtonSend/ButtonSend.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/users.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Table/Table.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Table/Table.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/users.js" afterDir="false" />
-    </list>
+    <list default="true" id="baf3223e-6a20-433a-93cb-8a7418b244f4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -360,7 +342,7 @@
       <workItem from="1525766134024" duration="18153000" />
       <workItem from="1525860935344" duration="960000" />
       <workItem from="1525873664589" duration="8656000" />
-      <workItem from="1525906179182" duration="553000" />
+      <workItem from="1525906179182" duration="1032000" />
     </task>
     <task id="LOCAL-00001" summary="Created project">
       <created>1525696063421</created>
@@ -394,7 +376,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67612000" />
+    <option name="totallyTimeSpent" value="68091000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
